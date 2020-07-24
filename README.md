@@ -1,7 +1,7 @@
 # Project-1
 # The Classic Genius
 
-A research app to help users collect scholar resaerch articles from all over the world, and give user an option to enhance their study with classical music. Moreover, if the user enjoy what they are hearing, there are links to lead user to a music library with more information on the artist and song playing. 
+A research app to help users collect scholar research articles from all over the world, and give user an option to enhance their study with classical music. Moreover, if the user enjoy what they are hearing, there are links to lead user to a music library with more information on the artist and song playing. 
 
 ## User Story
 
