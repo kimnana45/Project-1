@@ -26,5 +26,7 @@ On the left side of the page is a playlist of classical music from many famous c
 
 If the user likes what they hear and would like to know more about the artist or get more songs of the same composer, they can click on "Discover more from this artist". This will take them to last.fm: one of the biggest online music library. 
 
+## Contributors
+
 ## Deployment
  https://demetrio09.github.io/Project-1/
