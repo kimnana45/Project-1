@@ -18,5 +18,5 @@ User can collect scholar articles from all over the world by inputing the topic 
 
 The articles are from a research library called CORE. The result is generated from an AJAX call. Please refer to article.js for specifics of functionality. Once user hit search, the results will appear inside the yellow box. 
 
-
+<img src="screenshots/searchresult.png">
 
