@@ -24,3 +24,5 @@ On the left side of the page is a playlist of classical musics from many famous 
 
 <img src="screenshots/playlist.png">
 
+If the user likes what they hear and would like to know more about the artist or get more songs of the same composer, they can click on "Discover more from this artist". This will take them to last.fm: one of the biggest online music library. 
+
