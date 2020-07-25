@@ -20,5 +20,5 @@ The articles are from a research library called CORE. The result is generated fr
 
 <img src="screenshots/searchresult.png">
 
-On the left side of the page is a playlist of classical musics from many famous composers. The user can click play to enhance their studying with some timeless pieces from Beethoven, Ludovico and more. 
+On the left side of the page is a playlist of classical musics from many famous composers. The user can click play to enhance their studying with some timeless pieces from Beethoven, Ludovico and more. There are also previous and next buttons should the user want to skip or go back to a song. 
 
