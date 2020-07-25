@@ -13,5 +13,7 @@ SO THAT I can gather credible content to do my homework in an relaxing environme
 ## How It Works 
 
 User can collect scholar articles from all over the world by inputing the topic they would like to know about in the search box. 
+
 <img src="screenshots/searchEx.png">
 
+The articles are from a research library called CORE. The result is generated from an AJAX call. Please refer to article.js for specifics of functionality. 
