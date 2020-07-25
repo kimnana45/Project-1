@@ -6,9 +6,8 @@ A research app to help users collect scholar research articles from all over the
 
 ## User Story
 
-```
 AS A college student 
 I WANT easy access to scholar research articles, while listening to classical music
 SO THAT I can gather credible content to do my homework in an relaxing environment
-```
+
 
