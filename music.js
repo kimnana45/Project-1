@@ -83,4 +83,3 @@ $.ajax({
 
 });
 
-// $('#play').on('click', playSong);
